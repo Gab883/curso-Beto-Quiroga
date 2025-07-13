@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Learning Frontend/ED.Team/HTML Mi primer App Web"
+		},
+		{
+			"path": "../../Learning Frontend/HolaMundo/CSS"
+		},
+		{
+			"path": "../../Learning Frontend/HolaMundo/HTML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
